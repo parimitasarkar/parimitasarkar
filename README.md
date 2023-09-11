@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/parimitasarkar/parimitasarkar/blob/main/WhatsApp%20Image%202023-09-12%20at%2012.41.31%20AM%20(1).jpeg?raw=true)
 <h1 align="center">Hi 👋, I'm Parimita Sarkar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate software developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parimitasarkar&label=Profile%20views&color=0e75b6&style=flat" alt="parimitasarkar" /> </p>
 
