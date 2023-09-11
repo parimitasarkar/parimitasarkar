@@ -1,4 +1,4 @@
-![MasterHead](https://github.blog/wp-content/uploads/2021/01/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?fit=1200%2C630)
+![MasterHead]([https://github.blog/wp-content/uploads/2021/01/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?fit=1200%2C630](https://github.com/parimitasarkar/parimitasarkar/blob/main/WhatsApp%20Image%202023-09-12%20at%2012.41.31%20AM%20(1).jpeg))
 <h1 align="center">Hi 👋, I'm Parimita Sarkar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
